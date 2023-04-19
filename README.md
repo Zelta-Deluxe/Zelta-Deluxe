@@ -11,8 +11,3 @@
 -  🟢 Currently **available for work**.
   
 <h2> </h2>
-  
-<h3 align="left">- My Social media:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/zelta_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zelta_" height="30" width="40" /></a>
-</p>
