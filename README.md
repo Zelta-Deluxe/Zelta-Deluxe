@@ -1,5 +1,5 @@
-<h1 align="center">Hi! I'm Zelta</h1>
-<h1 align="center">I'm a programmer that mainly codes for mods but also for my game proyects.</h1>
+Hi! I'm Zelta.
+I'm a programmer that mainly codes for mods but also for my game proyects.
 
 -  🔧 Working on **Friday Night Funkin' Challenged mod and a Minecraft modpack**.
 
