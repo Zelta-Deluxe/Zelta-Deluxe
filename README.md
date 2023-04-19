@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Zelta</h1>
+<h1 align="center">Hi! I'm Zelta
 <h1 align="center">I'm a programmer that mainly codes for mods but also for my game proyects.</h1>
 
 
