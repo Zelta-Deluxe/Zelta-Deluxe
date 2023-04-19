@@ -1,6 +1,6 @@
 <h3 align = "center">Hi! I'm Zelta.<h3>
-<h2 align = "center">I'm a programmer that mainly codes for mods but also for my game proyects.
-<p> </h2>
+<h3 align = "center">I'm a programmer that mainly codes for mods but also for my game proyects.
+<p> </h3>
 
 -  🔧 Working on **Friday Night Funkin' Challenged mod and a Minecraft modpack**.
 
