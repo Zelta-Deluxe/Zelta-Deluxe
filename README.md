@@ -1,3 +1,6 @@
+[![MasterHead]](https://imgur.com/a/Sy8FQRu)](https://imgur.com)
+<h2> </h2>
+
 <h3 align = "center">Hi! I'm Zelta,<h3>
 <h4 align = "center">a programmer that mainly codes for mods but also for my game proyects.
 <p> </h4>
@@ -11,4 +14,4 @@
 
 -  🟢 Currently **available for work**.
   
-<p align="left"> <a href="https://www.imgur.com" target="_blank" rel="noreferrer"> <img src="https://imgur.com/a/Sy8FQRu" alt="python" width="40" height="40"/> </a> </p>
+
