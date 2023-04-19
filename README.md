@@ -6,7 +6,3 @@
 -  📖 I’m currently learning **full Lua coding, development with game engines and FL Studio usage.**
 
 -  📬 Contact me through Discord **Zelta#4392**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
