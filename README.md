@@ -1,4 +1,4 @@
-![Screenshot_3](https://user-images.githubusercontent.com/44785097/144629914-1fe55999-2f18-4cc1-bc70-afe616d74ae5.png)
+![Banner](https://i.imgur.io/5FT3pAU_d.webp?maxwidth=640&shape=thumb&fidelity=medium)
 <h2> </h2>
 
 <h3 align = "center">Hi! I'm Zelta,<h3>
