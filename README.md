@@ -1,5 +1,5 @@
 ![Banner](https://i.imgur.io/5FT3pAU_d.webp?maxwidth=640&shape=thumb&fidelity=medium)
-<h6> Prueba </h6>
+<h7> Prueba </h7>
 <h2> </h2>
 
 <h3 align = "center">Hi! I'm Zelta,<h3>
