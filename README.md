@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.io/5FT3pAU_d.webp?maxwidth=640&shape=thumb&fidelity=medium)
+![Banner](https://i.imgur.com/9DoMUOS.png)
 
 ## 🌺 Introduction
 
