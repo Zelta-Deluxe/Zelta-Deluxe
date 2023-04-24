@@ -19,4 +19,4 @@
 ## 🧠 Knowledge
 
 -  💻 I'm interested about these programming languages
-![Lua] <img title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="48"/>
+<img title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="48"/>
