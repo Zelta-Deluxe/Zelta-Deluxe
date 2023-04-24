@@ -15,3 +15,8 @@
 -  📬 Contact me through Discord, **Zelta#4392**.
 
 -  🟢 Currently **available for work**.
+
+## 🧠 Knowledge
+
+-  💻 Programming languages
+<img title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="48"/> 
