@@ -11,11 +11,9 @@ I love being active in my creative side, so **I'm always working on new proyects
 
 - 📗 I'm learning **Löve** game development and object oriented programming with **Haxe**. I want to learn game engine usage like **Unity** or **Game Maker**.
   
-## 🧾 How to contact me
+## 🧾 How to contact me!
 
 -  📬 Contact me through Discord, **Zelta#4392**.
-
--  🟢 Not busy!
 
 ## 🧠 What are my knowledges?
 
