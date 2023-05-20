@@ -2,13 +2,13 @@
 
 ## 🌺 Introduction
 
-- 👋 Hi! I'm Zelta, a programmer that mainly codes for mods but also for my game projects. I love being active in my creative side, so I'm always working on new proyects and concepts. The games that I code things for are **Friday Night Funkin'**, (Psych Engine, Lua scripting), and **Minecraft**, (mod configuration, JSON files), apart from my personal projects.
+- 👋 Hi! I'm Zelta, a game programmer and designer. I love being active in my creative side, so I'm always working on new proyects and concepts. I code mods for **Friday Night Funkin'**.
 
-## 🎨 Projects
+## 🔮 What are my plans?
 
--  🔧 Working on **Friday Night Funkin' Challenged mod and a Minecraft modpack**.
+- 🔥 My plan is to be a professional game programmer and I want to have tools to do so. I'm already thinking in what I can do to reach my dream. I already have some game proyects I wanna make in the future.
 
--  📖 I’m currently learning **full Lua coding, development with game engines and FL Studio usage**.
+- 📗 I'm learning **Löve** game development and object oriented programming with **Haxe**. I want to learn game engine usage like **Unity** or **Game Maker**.
   
 ## 🧾 Contact information
 
