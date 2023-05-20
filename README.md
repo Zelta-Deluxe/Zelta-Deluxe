@@ -1,6 +1,6 @@
 ![Banner](https://i.imgur.com/9DoMUOS.png)
 
-## 🌺 Introduction
+## 🌺 Hello, world!
 
 - 👋 Hi! I'm **Zelta**, an **apprentice of game programmer** and designer. Apprentice of who? Google.
 I love being active in my creative side, so **I'm always working on new proyects** and concepts. I code mods for **Friday Night Funkin'**.
@@ -11,13 +11,13 @@ I love being active in my creative side, so **I'm always working on new proyects
 
 - 📗 I'm learning **Löve** game development and object oriented programming with **Haxe**. I want to learn game engine usage like **Unity** or **Game Maker**.
   
-## 🧾 Contact information
+## 🧾 How to contact me
 
 -  📬 Contact me through Discord, **Zelta#4392**.
 
 -  🟢 Not busy!
 
-## 🧠 Knowledge
+## 🧠 What are my knowledges?
 
 -  💻 I'm interested about these programming languages:
 
