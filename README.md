@@ -2,7 +2,8 @@
 
 ## 🌺 Introduction
 
-- 👋 Hi! I'm Zelta, a game programmer and designer. I love being active in my creative side, so I'm always working on new proyects and concepts. I code mods for **Friday Night Funkin'**.
+- 👋 Hi! I'm Zelta, an apprentice of game programmer and designer. Apprentice of who? Google.
+I love being active in my creative side, so I'm always working on new proyects and concepts. I code mods for **Friday Night Funkin'**.
 
 ## 🔮 What are my plans?
 
@@ -14,7 +15,7 @@
 
 -  📬 Contact me through Discord, **Zelta#4392**.
 
--  🟢 Currently **available for work**.
+-  🟢 Not busy!
 
 ## 🧠 Knowledge
 
