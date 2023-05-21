@@ -16,13 +16,6 @@ OoooooooooO OoooooooooO OoO
     OoO     OoooooO     OoO
    OoO      OoO         OoO
   OoO       OoO         OoO
-OoooooooooO OoooooooooO OoooooooooO
-OoooooooooO    OoooO
-    OoO       OoO OoO
-    OoO       OoO OoO
-    OoO      OoooooooO  
-    OoO     OoO     OoO
-    OoO     OoO     OoO
-    OoO     OoO     OoO
+OoooooooooO OoooooooooO OoooooooooO OoooooooooO    OoooO                        OoO       OoO OoO                           OoO       OoO OoO                           OoO      OoooooooO                          OoO     OoO     OoO                         OoO     OoO     OoO                         OoO     OoO     OoO
 ```
    
