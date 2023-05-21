@@ -1,16 +1,12 @@
 ![Banner](https://i.imgur.com/9DoMUOS.png)
 
-## 🌺 Hello, world!
+Don't expect to find general information here. Just my coding stuff.
 
-- 👋 Hi! I'm **Zelta**, an **apprentice of game programmer** and designer. Apprentice of who? Google.
-I love being active in my creative side, so **I'm always working on new proyects** and concepts. I code mods for **Friday Night Funkin'**.
+## 🔷 About me
+Hey. I'm Zelta, a game developer that focuses on programming for they.
+I usually code mods, but right now I'm starting to code my original games.
+To execute my projects I usually code with **Lua**, but I'm learning object oriented programming with **Haxe** and to emulate that type of language with **Löve**, a **Lua** __framework__.
 
-## 🔮 What are my plans?
-
-- 🔥 My plan is to be a **professional game programmer** and I want to have tools to do so. I'm already thinking in what I can do to reach my dream. I already have some **game proyects** I wanna make in the future.
-
-- 📗 I'm learning **Löve** game development and object oriented programming with **Haxe**. I want to learn game engine usage like **Unity** or **Game Maker**.
-  
 ## 🧾 How to contact me!
 
 -  📬 Contact me through Discord, **Zelta#4392**.
