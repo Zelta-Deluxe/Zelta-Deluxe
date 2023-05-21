@@ -1,4 +1,6 @@
-## ![Banner](https://i.imgur.com/9DoMUOS.png)
+![Banner](https://i.imgur.com/9DoMUOS.png)
+
+##
 
 Don't expect to find general information here. Just my coding stuff.
 
