@@ -11,6 +11,6 @@ To execute my projects I usually code with **Lua**, but I'm learning object orie
 ## 💡 My ideas
 Right now I'm thinking on a lot of projects. I think I'll make some kind of **public Trello** board with my ideas and projects, some list where you can know what's next with me. My main goals are a magical themed platformer game called **Star Land** and some **psychological horror** games, cuz' I like spooky. Also, I love **pixel art**, both in two dimensions and three dimensions, so my projects may have that aesthetic.
 
-<h1></h1>
+</p>
 
-![Zelta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zelta-Deluxe&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelta-Deluxe)](https://github.com/anuraghazra/github-readme-stats)
