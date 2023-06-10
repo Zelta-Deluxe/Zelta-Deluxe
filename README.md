@@ -13,4 +13,4 @@ Right now I'm thinking on a lot of projects. I think I'll make some kind of **pu
 
 <h1></h1>
 
-<--![Zelta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zelta-Deluxe&show_icons=true&theme=tokyonight)--> 
+![Zelta's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zelta-Deluxe&show_icons=true&theme=tokyonight)
