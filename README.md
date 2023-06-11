@@ -15,4 +15,5 @@ Right now I'm thinking on a lot of projects. I think I'll make some kind of **pu
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zelta-Deluxe)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Python](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)](https://lua.org)
+[![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=lua)](https://lua.org)
+[![Haxe](https://img.shields.io/badge/haxe-black?style=for-the-badge&logo=lua)](https://haxe.org)
