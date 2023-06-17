@@ -16,4 +16,4 @@ Right now I'm thinking on a lot of projects. I think I'll make some kind of **pu
 
 [![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=none)](https://github.com/lua/lua)
 [![Haxe](https://img.shields.io/badge/haxe-black?style=for-the-badge&logo=none)](https://github.com/HaxeFoundation/haxe)
-[![Löve](https://img.shields.io/badge/love2d-black?style=for-the-badge&logo=none)](https://haxe.org)
+[![Löve](https://img.shields.io/badge/love2d-black?style=for-the-badge&logo=none)](https://github.com/love2d/love)
