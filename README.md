@@ -1,4 +1,4 @@
-[Banner](https://i.imgur.com/9DoMUOS.png)
+![Banner](https://i.imgur.com/9DoMUOS.png)
 
 <h1></h1>
 
