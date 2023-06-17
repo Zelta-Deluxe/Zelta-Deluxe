@@ -15,5 +15,5 @@ Right now I'm thinking on a lot of projects. I think I'll make some kind of **pu
 <h4>   <a href="https://lua.org"><img title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" width="48"/>   <a href="https://haxe.org"><img title="Haxe" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haxe/haxe-original.svg" width="48"/> <a href="https://love2d.org"><img title="Löve" src="https://i.ibb.co/ZB75fSm/descarga-1-removebg-preview-1.png" width="48"/> </h4>
 
 [![Lua](https://img.shields.io/badge/lua-black?style=for-the-badge&logo=none)](https://github.com/lua/lua)
-[![Haxe](https://img.shields.io/badge/haxe-black?style=for-the-badge&logo=none)](https://haxe.org)
+[![Haxe](https://img.shields.io/badge/haxe-black?style=for-the-badge&logo=none)](https://github.com/HaxeFoundation/haxe)
 [![Löve](https://img.shields.io/badge/love2d-black?style=for-the-badge&logo=none)](https://haxe.org)
