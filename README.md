@@ -7,7 +7,7 @@ Don't expect to find general information here. Just my coding stuff.
 ## 👾 About me
 Hey. I'm Zelta, a game developer that focuses on programming.
 I usually code mods, but right now I'm starting to code my original games.
-To execute my projects I usually code with **Lua**, but I'm learning object oriented programming with **Haxe** and to emulate that type of language with **Löve**, a **Lua** framework.
+To execute my projects I usually code with **Lua**, but I'm learning object oriented programming with **Haxe** and to emulate that type of language with **Löve**, a **Lua** framework. Currently learning **Java** for **Minecraft** modding.
 
 ## 💡 My ideas
 Right now I'm thinking on a lot of projects. I think I'll make some kind of **public Trello** board with my ideas and projects, some list where you can know what's next with me. My main goals are a magical themed platformer game called **Star Land** and some **psychological horror** games, cuz' I like spooky. Also, I love **pixel art**, both in two dimensions and three dimensions, so my projects may have that aesthetic.
